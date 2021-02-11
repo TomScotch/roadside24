@@ -173,10 +173,10 @@
 	function toggleLogoImg(id) {
     	var img = document.getElementById(id).src;
         if (img.indexOf('dark.png')!=-1) {
-            document.getElementById(id).src  = "https://www.qonsulter.de/images/logo-light.png";
+            document.getElementById(id).src  = "images/rs24_logo.jpg";
         }
          else {
-           document.getElementById(id).src = "https://www.qonsulter.de/images/logo-dark.png";
+           document.getElementById(id).src = "images/rs24_logo.jpg";
        }
 
     }
@@ -191,7 +191,7 @@
 			$(".menu-item").toggleClass("menu-item-transparent");
 			$(".desktop-menu .hvr-underline-from-left").toggleClass("dark");
 			// Toggle Logo
-			toggleLogoImg('desktop-logo');
+			//toggleLogoImg('desktop-logo');
 			// Toggling Mobile Menu Visibility
 			$(".mobile-menu").toggleClass("mobile-menu-fix");
 			// Auto-Collapsing Mobile Menu When Left Open

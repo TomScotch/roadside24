@@ -4,10 +4,11 @@ hero:
 
   # animated text loop
   occupations:
-    - "Brauchen Sie hilfe mit einem Platten Reifen"
-    - "Rufen Sie einfach an und wir helfen"
-    - "Wir sind für Sie da, mit dem besten Service"
-
+    - "In case of a Flat tire, Roadside24 offers professional help, 365 days of the year. Day and Night."
+    - "Have you been left behind, due to a tire blowout of your car ? Let us help reducing your Downtime to a minimum by having our expierenced staff draw from our pool of qualified service partners."
+    - "A Call is all it takes. Most repairs can be done on the spot"
+    - "Every case is handled tailor-made, always taking into account the costs and customer wishes."  
+    - "We look forward to hearing from you."
   # slider background image loop
   slider_image:
     - "images/slider/truck_01.jpg"
@@ -124,7 +125,7 @@ call_to_action:
   title : "Need Help"
   button:
     enable : true
-    label : "Send us a Message"
+    label : "Send"
     link : "#contact"
 
 

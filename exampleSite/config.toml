@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
-title = "Somrat | Hugo Portfolio Template"
+baseURL = "https://roadside24.com"
+title = "Roadside24"
 theme = "somrat"
 # disable language
 disableLanguages = [] # disable language from here
@@ -75,8 +75,8 @@ weight = 5
 
 #################### default parameters ################################
 [params]
-logo_light = "images/logo.png"
-logo_dark = "images/logo-dark.png"
+logo_light = "images/rs24_logo.gif"
+logo_dark = "images/rs24_logo.gif"
 # Meta data
 description = "This is meta description"
 author = "somrat"
@@ -97,7 +97,7 @@ link = "https://www.facebook.com/somrat.mac"
 
 ################################### English language #####################################
 [Languages.en]
-languageName = "En"
+languageName = "English"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
@@ -106,22 +106,12 @@ home = "Home"
 copyright = "Copyright 2021"
 
 
-################################### French language #####################################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
+################################### Polish language #####################################
+[Languages.pl]
+languageName = "Polish"
+languageCode = "pl-pl"
+contentDir = "content/polish"
 weight = 2
-home = "Accueil"
-# copyright
-copyright = "Copyright 2021"
-
-################################### German language #####################################
-[Languages.de]
-languageName = "Ge"
-languageCode = "de-de"
-contentDir = "content/german"
-weight = 3
 home = "Home"
 # copyright
-copyright = "Copyright 2020"
+copyright = "Copyright 2021"
