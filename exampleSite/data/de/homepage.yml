@@ -4,15 +4,15 @@ hero:
 
   # animated text loop
   occupations:
-    - "Need Help with a Tire Blowout ? "
-    - "Give us a Call"
-    - "We offer the best Service"
+    - "Brauchen Sie hilfe mit einem Platten Reifen"
+    - "Rufen Sie einfach an und wir helfen"
+    - "Wir sind für Sie da, mit dem besten Service"
 
   # slider background image loop
   slider_image:
     - "images/slider/truck_01.jpg"
     - "images/slider/truck_02.jpg"
-    - "images/slider/truck_3.jpg"
+    - "images/slider/truck_03.jpg"
 
   # button
   button:
