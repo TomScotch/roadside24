@@ -4,9 +4,11 @@ title = "Roadside24"
 theme = "somrat"
 # disable language
 disableLanguages = [] # disable language from here
-
+############################# Modules ##############################
+[module]
+  [[module.imports]]
+    path = "github.com/somratpro/somrat"
 ############################# Plugins ##############################
-
 # CSS Plugins
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
