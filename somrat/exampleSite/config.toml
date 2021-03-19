@@ -1,6 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://roadside24.com"
 title = "Roadside24"
+themesDir = "../.."
 theme = "somrat"
 # disable language
 disableLanguages = [] # disable language from here
