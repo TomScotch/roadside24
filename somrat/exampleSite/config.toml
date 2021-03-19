@@ -4,9 +4,7 @@ title = "Roadside24"
 theme = "somrat"
 # disable language
 disableLanguages = [] # disable language from here
-
 ############################# Plugins ##############################
-
 # CSS Plugins
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
