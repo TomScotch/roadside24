@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://roadside24.com"
+baseURL = "https://roadside24.onrender.com"
 title = "Roadside24"
 theme = "somrat"
 # disable language
