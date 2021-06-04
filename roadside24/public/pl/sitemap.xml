@@ -1,62 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://roadside24.com/pl/categories/</loc>
+    <loc>https://roadside24.onrender.com/pl/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://roadside24.com/categories/"
+                href="https://roadside24.onrender.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://roadside24.com/de/categories/"
+                href="https://roadside24.onrender.com/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://roadside24.com/pl/categories/"
+                href="https://roadside24.onrender.com/pl/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://roadside24.com/pl/</loc>
+  </url><url>
+    <loc>https://roadside24.onrender.com/pl/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://roadside24.com/"
+                href="https://roadside24.onrender.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://roadside24.com/de/"
+                href="https://roadside24.onrender.com/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://roadside24.com/pl/"
+                href="https://roadside24.onrender.com/pl/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://roadside24.com/pl/tags/</loc>
+  </url><url>
+    <loc>https://roadside24.onrender.com/pl/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://roadside24.com/tags/"
+                href="https://roadside24.onrender.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://roadside24.com/de/tags/"
+                href="https://roadside24.onrender.com/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://roadside24.com/pl/tags/"
+                href="https://roadside24.onrender.com/pl/tags/"
                 />
   </url>
-  
 </urlset>
