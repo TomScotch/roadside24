@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://roadside24.onrender.com/de/categories/</loc>
+    <loc>https://roadside24.netlify.app/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://roadside24.onrender.com/pl/categories/"
+                href="https://roadside24.netlify.app/pl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://roadside24.onrender.com/categories/"
+                href="https://roadside24.netlify.app/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://roadside24.onrender.com/de/categories/"
+                href="https://roadside24.netlify.app/de/categories/"
                 />
   </url><url>
-    <loc>https://roadside24.onrender.com/de/</loc>
+    <loc>https://roadside24.netlify.app/de/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://roadside24.onrender.com/pl/"
+                href="https://roadside24.netlify.app/pl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://roadside24.onrender.com/"
+                href="https://roadside24.netlify.app/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://roadside24.onrender.com/de/"
+                href="https://roadside24.netlify.app/de/"
                 />
   </url><url>
-    <loc>https://roadside24.onrender.com/de/tags/</loc>
+    <loc>https://roadside24.netlify.app/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://roadside24.onrender.com/pl/tags/"
+                href="https://roadside24.netlify.app/pl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://roadside24.onrender.com/tags/"
+                href="https://roadside24.netlify.app/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://roadside24.onrender.com/de/tags/"
+                href="https://roadside24.netlify.app/de/tags/"
                 />
   </url>
 </urlset>

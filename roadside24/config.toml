@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://roadside24.onrender.com"
+baseURL = "https://roadside24.netlify.app"
 title = "Roadside24"
 theme = "somrat"
 # disable language
@@ -97,7 +97,7 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 [Languages.en]
 languageName = "English"
 languageCode = "en-us"
-contentDir = "content/english"
+contentDir = "data/en"
 weight = 2
 home = "Home"
 # copyright
@@ -108,7 +108,7 @@ copyright = "Copyright 2021"
 [Languages.pl]
 languageName = "Polish"
 languageCode = "pl-pl"
-contentDir = "content/polish"
+contentDir = "data/pl"
 weight = 1
 home = "Home"
 # copyright
@@ -118,7 +118,7 @@ copyright = "Copyright 2021"
 [Languages.de]
 languageName = "Deutsch"
 languageCode = "de-de"
-contentDir = "content/deutsch"
+contentDir = "data/de"
 weight = 3
 home = "Home"
 # copyright

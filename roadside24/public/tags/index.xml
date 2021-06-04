@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Roadside24</title>
-    <link>https://roadside24.onrender.com/tags/</link>
+    <link>https://roadside24.netlify.app/tags/</link>
     <description>Recent content in Tags on Roadside24</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright 2021</copyright><atom:link href="https://roadside24.onrender.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright 2021</copyright><atom:link href="https://roadside24.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
