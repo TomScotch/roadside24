@@ -73,8 +73,8 @@ weight = 5
 
 #################### default parameters ################################
 [params]
-logo_light = "images/logo-1.png"
-logo_dark = "images/logo-1.png"
+logo_light = "images/2-White.png"
+logo_dark = "images/3.png"
 # Meta data
 description = "This is meta description"
 author = "somrat"
